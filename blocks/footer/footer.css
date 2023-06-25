@@ -23,7 +23,7 @@
 @media screen and (max-width: 685px) {
   .footer {
     padding: 0 0 24px 16px;
-    display: grid;
     max-width: 320px;
+    display: grid;
   }
 }
