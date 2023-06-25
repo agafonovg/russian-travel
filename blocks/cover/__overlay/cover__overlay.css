@@ -1,13 +1,12 @@
 .cover__overlay {
-  display: flex; 
-  flex-direction: column; 
-  justify-content: center; 
-  align-items: center; 
-  width: 100%; 
-  min-height: 740px; 
-  text-decoration: none; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 740px;
+  text-decoration: none;
   color: #fff;
- 
   position: relative;
   z-index: 0;
 }
