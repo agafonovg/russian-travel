@@ -1,7 +1,6 @@
 .place__link {
   margin: 0;
-  text-decoration: none;
-  text-decoration: underline; /* <=border-bottom: 1px solid #fff; */
+  text-decoration: underline;
   color: #fff;
   font-size: 18px;
   font-weight: 400;
